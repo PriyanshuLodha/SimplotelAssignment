@@ -58,6 +58,7 @@ div.text-block pre {
 
 .row{
   display: flex;
+  flex-direction: column;
 }
 
 .column{
